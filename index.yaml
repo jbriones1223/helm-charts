@@ -50,4 +50,14 @@ entries:
     urls:
     - https://github.com/jbriones1223/helm-charts/releases/download/chart6-0.1.0/chart6-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-12T04:50:00.050705106Z"
+  chart7:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-12T04:53:09.241135854Z"
+    digest: a5f3d311c6d2ad8aa0857cd42556e4f898e1924346eee68d790c952a3ae59462
+    name: chart7
+    type: application
+    urls:
+    - https://github.com/jbriones1223/helm-charts/releases/download/chart7-0.1.0/chart7-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-12T04:53:09.241141154Z"
