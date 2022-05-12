@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  chart2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-12T04:18:31.810489581Z"
+    digest: c1853d5bf58e4ca7cabe86fa231cb4a245cd821c67528db9af144a205b70e38d
+    name: chart2
+    type: application
+    urls:
+    - https://github.com/jbriones1223/helm-charts/releases/download/chart2-0.1.0/chart2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-12T04:18:31.561459467Z"
